@@ -1,0 +1,1 @@
+const BlockMonitor = require('../blockMonitor/src/casper/') // import and start the block monitor
